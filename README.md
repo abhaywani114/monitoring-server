@@ -90,8 +90,8 @@ Restart the container for the changes to take effect.
 3. Prometheus URL: http://prometheus:9090
 4. Loki URL: http://loki:3100
 5. Import prebuilt dashboards for visualizing metrics and logs:
-6. [**cAdvisor Dashboard**]('https://grafana.com/grafana/dashboards/893-main/')
-7. [**Loki Dashboard**]('https://grafana.com/grafana/dashboards/13186-loki-dashboard/')
+   - **[cAdvisor Dashboard](https://grafana.com/grafana/dashboards/893-main/)**
+   - **[Loki Dashboard](https://grafana.com/grafana/dashboards/13186-loki-dashboard/)**
 
 ---
 ## 🤝 Contributing
