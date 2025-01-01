@@ -24,7 +24,7 @@ services:
     networks:
       - monitoring-internal-network 
   loki:
-    image: grafana/loki:latest
+    image:  grafana/loki:main-a431ee2
     container_name: loki
     ports:
       - 3100:3100
